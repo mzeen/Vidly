@@ -190,3 +190,9 @@ C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateModelValidation1.resources
 C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateModelValidation2.resources
 C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerValidation.resources
 C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieDataAnnotation.resources
+C:\DEV\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\DEV\Vidly\Vidly\bin\System.Web.Http.dll
+C:\DEV\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\DEV\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\DEV\Vidly\Vidly\bin\System.Web.Http.xml
+C:\DEV\Vidly\Vidly\bin\System.Web.Http.WebHost.xml

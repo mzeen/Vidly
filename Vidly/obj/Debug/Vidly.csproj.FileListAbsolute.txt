@@ -189,3 +189,4 @@ C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateModelValidation.resources
 C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateModelValidation1.resources
 C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateModelValidation2.resources
 C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerValidation.resources
+C:\DEV\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieDataAnnotation.resources
